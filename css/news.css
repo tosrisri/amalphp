@@ -1,0 +1,36 @@
+.holder {
+    background-color: white;
+    width: 100%;
+    height: 130px;
+    overflow: hidden;
+    padding: 1em 2em;
+    box-shadow: inset 0 0 10px rgba(0,0,0,0.3);
+    border-radius: 5px;
+}
+.holder .mask {
+  position: relative;
+  left: 0px;
+  top: 10px;
+  width:100%;
+  height:130px;
+  overflow: hidden;
+}
+.holder ul {
+  list-style:none;
+  margin:0;
+  padding:0;
+  position: relative;
+}
+.holder ul li {
+  padding:10px 0px;
+  border-bottom: 1px dotted #aaa
+}
+.holder ul li span {color:#000000;
+
+}
+.holder ul li a {
+  color:#6B1217;
+  text-decoration:none;
+  font-size:12px;
+  font-weight:normal;
+}
