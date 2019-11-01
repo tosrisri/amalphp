@@ -7,6 +7,7 @@
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>AMAL College - NCC</title>
 <?php include_once('header-styles.php'); ?>
+<?php include_once('analyticstracking.php'); ?>
 </head>
 
 <body class="inner-pages bg-logo scrolling-box" >

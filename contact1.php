@@ -25,6 +25,7 @@
 }
 </style>
 	<link rel="stylesheet"  href="css/scroll.css">
+<?php include_once('analyticstracking.php'); ?>
 </head>
 <body class="inner-pages bg-logo scrolling-box" >
 <!-- Navigation -->

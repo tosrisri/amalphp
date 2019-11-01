@@ -7,6 +7,7 @@
 <title>AMAL College</title>
 <?php include_once('header-styles.php'); ?>
 <link rel="stylesheet" href="css/news.css">
+<?php include_once('analyticstracking.php'); ?>
 </head>
 <body class="scrolling-box">
 <!-- Navigation -->
