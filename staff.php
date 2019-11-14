@@ -903,8 +903,8 @@
 
         <div class="col-lg-2 col-md-3 col-sm-4 col-xs-12">
           <div class="card border-0 transform-on-hover">
-            <a class="lightbox"  href="javascript:void(0)"  data-img="images/no-picture.jpg">
-              <img src="images/no-picture.jpg" alt="Card Image" class="card-img-top img-thumbnail1">
+            <a class="lightbox"  href="javascript:void(0)"  data-img="images/svlaxmi.jpg">
+              <img src="images/svlaxmi.jpg" alt="Card Image" class="card-img-top img-thumbnail1">
             </a>
             <div class="card-body">
               <h6>S. Venkata Laxmi Bhavani, <small class="small-font">M.Com. APSET </small></h6>
