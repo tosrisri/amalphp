@@ -59,6 +59,428 @@
 
 <!-- Grid Gallery -->
 <section class="gallery-block grid-gallery">
+    <!-- Programmes Starts -->
+    <div class="container-fluid">
+        <h2 class="mb-5 text-center">Programmes</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/pp1.jpeg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/pp1.jpeg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/pp2.jpeg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/pp2.jpeg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/pp3.jpeg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/pp3.jpeg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/pp4.jpeg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/pp4.jpeg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/pp5.jpeg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/pp5.jpeg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/pp6.jpeg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/pp6.jpeg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/pp7.jpeg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/pp7.jpeg">
+            </a>
+        </div>
+
+
+
+
+
+            <div class="col-xs-12 col-sm-6 col-md-6 item">
+                <video width="100%" controls="controls" >
+                <source src="vids/p1.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+                <source src="vids/p1.webm" type='video/webm' >
+                <source src="vids/p1.mp4" type='video/mp4'>
+                <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                </video>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6 item">
+                <video width="100%" controls="controls" >
+                <source src="vids/p2.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+                <source src="vids/p2.webm" type='video/webm' >
+                <source src="vids/p2.mp4" type='video/mp4'>
+                <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                </video>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6 item">
+                <video width="100%" controls="controls" >
+                <source src="vids/p3.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+                <source src="vids/p3.webm" type='video/webm' >
+                <source src="vids/p3.mp4" type='video/mp4'>
+                <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                </video>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6 item">
+                <video width="100%" controls="controls" >
+                <source src="vids/p4.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+                <source src="vids/p4.webm" type='video/webm' >
+                <source src="vids/p4.mp4" type='video/mp4'>
+                <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                </video>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6 item">
+                <video width="100%" controls="controls" >
+                <source src="vids/p5.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+                <source src="vids/p5.webm" type='video/webm' >
+                <source src="vids/p5.mp4" type='video/mp4'>
+                <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                </video>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6 item">
+                <video width="100%" controls="controls" >
+                <source src="vids/p6.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+                <source src="vids/p6.webm" type='video/webm' >
+                <source src="vids/p6.mp4" type='video/mp4'>
+                <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                </video>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6 item">
+                <video width="100%" controls="controls" >
+                <source src="vids/p7.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+                <source src="vids/p7.webm" type='video/webm' >
+                <source src="vids/p7.mp4" type='video/mp4'>
+                <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                </video>
+            </div>
+
+            <div class="col-xs-12 col-sm-6 col-md-6 item">
+                <video width="100%" controls="controls" >
+                <source src="vids/p8.ogv" type='video/ogg; codecs="theora, vorbis"'/>
+                <source src="vids/p8.webm" type='video/webm' >
+                <source src="vids/p8.mp4" type='video/mp4'>
+                <p>Video is not visible, most likely your browser does not support HTML5 video</p>
+                </video>
+            </div>
+
+
+        </div>
+
+
+
+    </div>
+<!-- Programmes Ends -->
+
+
+<!-- Indhira Gandhi Birthday Starts -->
+<div class="container-fluid">
+<h2 class="mb-5 text-center">Indhira Gandhi Birthday</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/igb1.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/igb1.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/igb2.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/igb2.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/igb3.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/igb3.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/igb4.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/igb4.jpg">
+            </a>
+        </div>
+        
+    </div>
+</div>
+<!-- Indhira Gandhi Birthday Ends -->
+
+
+
+
+<!-- Jawaharlal Nehru Birthday Starts -->
+<div class="container-fluid">
+<h2 class="mb-5 text-center">Jawaharlal Nehru Birthday</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/nb1.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nb1.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/nb2.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nb2.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/nb3.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nb3.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/nb4.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nb4.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/nb5.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nb5.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/nb6.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nb6.jpg">
+            </a>
+        </div>
+        
+    </div>
+</div>
+<!-- Jawaharlal Nehru Birthday Ends -->
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- Events Starts -->
+<div class="container-fluid">
+<h2 class="mb-5 text-center">Different Events Conducted at College permises</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events3.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events3.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events1.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events1.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events2.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events2.jpg">
+            </a>
+        </div>
+
+
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events4.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events4.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events5.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events5.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events6.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events6.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events7.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events7.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events8.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events8.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events9.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events9.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events10.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events10.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events11.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events11.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events12.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events12.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events13.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events13.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events14.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events14.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events15-amb.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events15-amb.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events16-amb.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events16-amb.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events17-amb.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events17-amb.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events18.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events18.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events19.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events19.jpg">
+            </a>
+        </div>
+
+
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events22.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events22.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events23.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events23.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events20.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events20.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 item">
+            <a class="lightbox" href="images/events21.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/events21.jpg">
+            </a>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+</div>
+<!-- Events Ends -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <div class="container-fluid">
 	<h2 class="mb-5 text-center">Image Gallery</h2>
         
@@ -143,7 +565,12 @@
             </div>
 
         </div>
+
     </div>
+
+
+
+
 </section>
 <!-- Grid Gallery -->
 

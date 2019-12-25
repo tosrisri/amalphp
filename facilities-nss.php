@@ -160,6 +160,23 @@
   <!-- /Facilities -->
 
 
+<!-- NSS Event Starts -->
+<div class="container">
+<h2 class="mb-5 text-center">NSS Event</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6 col-md-6 item">
+            <a class="lightbox" href="images/nss-e1.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nss-e1.jpg">
+            </a>
+        </div>
+
+
+    </div>
+</div>
+<!-- NSS Event Ends -->
+
 
   <!-- Footer Starts -->
 <?php include_once('footer.php'); ?>

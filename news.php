@@ -8,6 +8,22 @@
 <title>AMAL College - News &amp; Events</title>
 <?php include_once('header-styles.php'); ?>
 <?php include_once('analyticstracking.php'); ?>
+<style type="text/css">
+.d-flex {
+  border:1px solid #000;
+}
+.d-flex picture {
+  width:300px;
+  flex: auto;
+  cursor:pointer;
+  border:1px solid #000;
+
+}
+
+@media (min-width: 992px) { 
+  .w-lg-50 {width:50%!important;}
+}
+</style>
 </head>
 <body class="inner-pages bg-logo scrolling-box" >
 
@@ -55,53 +71,196 @@
 <!-- News -->
 <section>
 <div class="container">
-<h2 class="mb-5">Latest News</h2>
-  <div class="row">
-   <div class="media">
-          <img src="images/news-dummy.jpg" class="align-self-start mr-3" alt="news icon">
-          <div class="media-body">
-            <h5 class="mt-0">Top-aligned media</h5>
-            <p>Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.</p>
-            <p>Donec sed odio dui. Nullam quis risus eget urna mollis ornare vel eu leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>
-          </div>
-        </div>
-		 <hr/>
-        <div class="media">
-              <img src="images/news-dummy.jpg" class="align-self-start mr-3" alt="news icon">
-            <div class="media-body">
-              <h5 class="mt-0 mb-1">List-based media object</h5>
-              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-            </div>
-          </div>
-		  <hr/>
-  </div>   
-      <h2 class="mb-5">Upcoming Events</h2> 
-	  <div class="row">
-      <ul class="list-unstyled">
-          <li class="media">
-              <img src="images/news-dummy.jpg" class="align-self-start mr-3" alt="news icon">
-            <div class="media-body">
-              <h5 class="mt-0 mb-1">List-based media object</h5>
-              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-            </div>
-          </li>
-          <li class="media my-4">
-              <img src="images/news-dummy.jpg" class="align-self-start mr-3" alt="news icon">
-            <div class="media-body">
-              <h5 class="mt-0 mb-1">List-based media object</h5>
-              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-            </div>
-          </li>
-          <li class="media">
-              <img src="images/news-dummy.jpg" class="align-self-start mr-3" alt="news icon">
-            <div class="media-body">
-              <h5 class="mt-0 mb-1">List-based media object</h5>
-              Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.
-            </div>
-          </li>
-        </ul>     
+  
+  <h1>Recent Events Conducted by NSS Department</h1>
+  <div class="d-flex flex-row flex-wrap">
+
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-1.jpg">
+  <img src="images/nss-a-1.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-2.jpg">
+  <img src="images/nss-a-2.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-3.jpg">
+  <img src="images/nss-a-3.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-4.jpg">
+  <img src="images/nss-a-4.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-5.jpg">
+  <img src="images/nss-a-5.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-6.jpg">
+  <img src="images/nss-a-6.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-7.jpg">
+  <img src="images/nss-a-7.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-8.jpg">
+  <img src="images/nss-a-8.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-9.jpg">
+  <img src="images/nss-a-9.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-10.jpg">
+  <img src="images/nss-a-10.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-11.jpg">
+  <img src="images/nss-a-11.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-12.jpg">
+  <img src="images/nss-a-12.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-13.jpg">
+  <img src="images/nss-a-13.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-14.jpg">
+  <img src="images/nss-a-14.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-15.jpg">
+  <img src="images/nss-a-15.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-16.jpg">
+  <img src="images/nss-a-16.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-17.jpg">
+  <img src="images/nss-a-17.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-18.jpg">
+  <img src="images/nss-a-18.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+
+
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-19.jpg">
+  <img src="images/nss-a-19.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-20.jpg">
+  <img src="images/nss-a-20.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-21.jpg">
+  <img src="images/nss-a-21.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-22.jpg">
+  <img src="images/nss-a-22.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-23.jpg">
+  <img src="images/nss-a-23.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-24.jpg">
+  <img src="images/nss-a-24.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+
+
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-25.jpg">
+  <img src="images/nss-a-25.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-26.jpg">
+  <img src="images/nss-a-26.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-27.jpg">
+  <img src="images/nss-a-27.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-28.jpg">
+  <img src="images/nss-a-28.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/nss-a-29.jpg">
+  <img src="images/nss-a-29.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-30.jpg">
+  <img src="images/nss-a-30.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+
+
+
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-31.jpg">
+  <img src="images/nss-a-31.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-32.jpg">
+  <img src="images/nss-a-32.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/nss-a-33.jpg">
+  <img src="images/nss-a-33.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+<picture class="">
+  <source media="(min-width: 650px)" srcset="images/nss-a-34.jpg">
+  <img src="images/nss-a-34.jpg" alt="placeholder image"  class="img-fluid">
+</picture>
+    
+
+
+
+  </div>
 </div>
-</div>
+  
+
+
+
 </section>
 <!-- /News -->
 

@@ -143,6 +143,41 @@
   </section>
   <!-- /Facilities -->
 
+
+  <!-- NCC Day Starts -->
+<div class="container">
+<h2 class="mb-5 text-center">NCC Day</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6  item">
+            <a class="lightbox" href="images/ncc-day1.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/ncc-day1.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6   item">
+            <a class="lightbox" href="images/ncc-day2.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/ncc-day2.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 item">
+            <a class="lightbox" href="images/ncc-day3.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/ncc-day3.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 item">
+            <a class="lightbox" href="images/ncc-day4.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/ncc-day4.jpg">
+            </a>
+        </div>
+        
+    </div>
+</div>
+<!-- NCC Day Ends -->
+
 <?php include_once('scroll.php'); ?>
 
   <!-- Footer Starts -->

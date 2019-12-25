@@ -8,6 +8,16 @@
   <title>AMAL College - Facilities</title>
 <?php include_once('header-styles.php'); ?>
 <?php include_once('analyticstracking.php'); ?>
+<style type="text/css">
+.d-flex {  border:1px solid #000;}
+.d-flex picture {
+  width:300px;
+  flex: auto;
+  cursor:pointer;
+  border:1px solid #000;
+}
+@media (min-width: 992px) {   .w-lg-50 { width:50%!important; } }
+</style>
 </head>
 
 <body class="inner-pages bg-logo scrolling-box" >
@@ -112,6 +122,337 @@
   </section>
   <!-- /Facilities -->
 
+
+<!-- Kabadi Starts -->
+<div class="container">
+<h2 class="mb-5 text-center">Kabadi</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6 col-md-4 item">
+            <a class="lightbox" href="images/kabadi1.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/kabadi1.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 item">
+            <a class="lightbox" href="images/kabadi2.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/kabadi2.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 item">
+            <a class="lightbox" href="images/kabadi3.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/kabadi3.jpg">
+            </a>
+        </div>
+    </div>
+</div>
+<!-- Kabadi Ends -->
+
+
+
+
+
+
+
+<!-- Past Sports Activities -->
+<section>
+<div class="container">
+  
+  <h1>Past Sports Activities &amp; Accolades</h1>
+  <div class="d-flex flex-row flex-wrap">
+
+<picture class="w-100">
+  <source media="(min-width: 650px)" srcset="images/psa-1.jpg">
+  <img src="images/psa-1.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-2.jpg">
+  <img src="images/psa-2.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-3.jpg">
+  <img src="images/psa-3.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-4.jpg">
+  <img src="images/psa-4.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-5.jpg">
+  <img src="images/psa-5.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-6.jpg">
+  <img src="images/psa-6.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-7.jpg">
+  <img src="images/psa-7.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-8.jpg">
+  <img src="images/psa-8.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-9.jpg">
+  <img src="images/psa-9.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-10.jpg">
+  <img src="images/psa-10.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-11.jpg">
+  <img src="images/psa-11.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-12.jpg">
+  <img src="images/psa-12.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-13.jpg">
+  <img src="images/psa-13.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-14.jpg">
+  <img src="images/psa-14.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-15.jpg">
+  <img src="images/psa-15.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-100">
+  <source media="(min-width: 650px)" srcset="images/psa-16.jpg">
+  <img src="images/psa-16.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/psa-17.jpg">
+  <img src="images/psa-17.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/psa-18.jpg">
+  <img src="images/psa-18.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+
+
+<picture>
+  <source media="(min-width: 650px)" srcset="images/psa-19.jpg">
+  <img src="images/psa-19.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/psa-20.jpg">
+  <img src="images/psa-20.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+
+<picture>
+  <source media="(min-width: 650px)" srcset="images/psa-24.jpg">
+  <img src="images/psa-24.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+
+
+<picture>
+  <source media="(min-width: 650px)" srcset="images/psa-25.jpg">
+  <img src="images/psa-25.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-26.jpg">
+  <img src="images/psa-26.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+
+
+
+
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-22.jpg">
+  <img src="images/psa-22.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-23.jpg">
+  <img src="images/psa-23.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+
+    
+<picture class="w-100">
+  <source media="(min-width: 650px)" srcset="images/psa-27.jpg">
+  <img src="images/psa-27.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-29.jpg">
+  <img src="images/psa-29.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-30.jpg">
+  <img src="images/psa-30.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+
+
+
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-31.jpg">
+  <img src="images/psa-31.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-32.jpg">
+  <img src="images/psa-32.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-33.jpg">
+  <img src="images/psa-33.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-34.jpg">
+  <img src="images/psa-34.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+
+
+
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-35.jpg">
+  <img src="images/psa-35.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-36.jpg">
+  <img src="images/psa-36.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-37.jpg">
+  <img src="images/psa-37.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-38.jpg">
+  <img src="images/psa-38.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-39.jpg">
+  <img src="images/psa-39.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-40.jpg">
+  <img src="images/psa-40.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-41.jpg">
+  <img src="images/psa-41.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-42.jpg">
+  <img src="images/psa-42.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-43.jpg">
+  <img src="images/psa-43.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-44.jpg">
+  <img src="images/psa-44.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-45.jpg">
+  <img src="images/psa-45.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-46.jpg">
+  <img src="images/psa-46.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-47.jpg">
+  <img src="images/psa-47.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-48.jpg">
+  <img src="images/psa-48.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-lg-50">
+  <source media="(min-width: 650px)" srcset="images/psa-49.jpg">
+  <img src="images/psa-49.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture class="w-100">
+  <source media="(min-width: 650px)" srcset="images/psa-50.jpg">
+  <img src="images/psa-50.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture >
+  <source media="(min-width: 650px)" srcset="images/psa-51.jpg">
+  <img src="images/psa-51.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+    
+<picture>
+  <source media="(min-width: 650px)" srcset="images/psa-52.jpg">
+  <img src="images/psa-52.jpg" alt="Sports Activities"  class="img-fluid">
+</picture>
+
+
+
+
+
+
+
+
+
+
+
+
+  </div>
+</div>
+  
+
+
+
+</section>
+<!-- /Past Sports Activities -->
 
 
   <!-- Footer Starts -->

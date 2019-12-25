@@ -87,6 +87,34 @@
   <!-- /naac -->
 
 
+<!-- NACC Visit Starts -->
+<div class="container">
+<h2 class="mb-5 text-center">NACC Visit</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6 col-md-4 item">
+            <a class="lightbox" href="images/nacc-visit1.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit1.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 item">
+            <a class="lightbox" href="images/nacc-visit2.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit2.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6 col-md-4 item">
+            <a class="lightbox" href="images/nacc-visit3.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit3.jpg">
+            </a>
+        </div>
+    </div>
+</div>
+<!-- NACC Visit Ends -->
+
+
 <!-- Footer Starts -->
 <?php include_once('scroll.php'); ?>
 <?php include_once('footer.php'); ?>

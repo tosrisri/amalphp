@@ -139,6 +139,35 @@
   </div>
 </section>
 <!-- /Facilities -->
+
+<!-- Hostel Starts -->
+<div class="container">
+<h2 class="mb-5 text-center">Hostel</h2>
+        <hr>
+        <div class="row">
+
+        <div class="col-xs-12 col-sm-6  item">
+            <a class="lightbox" href="images/hostel1.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/hostel1.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6  item">
+            <a class="lightbox" href="images/hostel2.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/hostel2.jpg">
+            </a>
+        </div>
+
+        <div class="col-xs-12 col-sm-6  item">
+            <a class="lightbox" href="images/hostel3.jpg">
+                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/hostel3.jpg">
+            </a>
+        </div>
+    </div>
+</div>
+<!-- Hostel Ends -->
+
+
 <?php include_once('scroll.php'); ?>
 <!-- Footer Starts -->
 <?php include_once('footer.php'); ?>

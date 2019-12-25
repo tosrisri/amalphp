@@ -64,6 +64,13 @@
   <!-- History -->
   <section class="divblock">
     <div class="container">
+    <div class="w-100">
+    <h2 class="subheading w-100">History of AMAL College</h2>
+        <hr>
+      <p>Sri Vuppala Peda Venkata Ramana and Sri Thatikonda Nookayya Chetty were the founder President and Correspondent respectively. </p>
+    </div>
+
+<!--
       <div class="w-100">
         <h2 class="subheading w-100">History of AMAL College</h2>
         <hr>
@@ -72,10 +79,11 @@
         <p class="btext font-serif"><span>Year Established:</span> 22nd of June, 1953</p>
         <p class="btext font-serif"><span>Name Change:</span> 1st of April, 1955, In memory of Sri Korukonda
           Lingamurthy, founder of Anakapalle Merchants Association</p>
-        <!-- <p class="btext font-serif"><span>Famous Personalities:</span> Late Sri. Pentakota Madhav Rao Naidu, Lieutenant
-          Colonel, Chemistry Lecturer.</p> -->
+         <p class="btext font-serif"><span>Famous Personalities:</span> Late Sri. Pentakota Madhav Rao Naidu, Lieutenant
+          Colonel, Chemistry Lecturer.</p> 
         <hr>
       </div>
+-->
       <div class="row">
         <div class="col-md-4 col-xs-12">
           <p><img src="images/lingamurthy.jpg" alt="History" class="rounded img-fluid float-left mr-3" />The College was started
