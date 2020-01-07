@@ -57,6 +57,7 @@
         <li class="nav-item"><a class="nav-link active" href="a">History</a></li>
         <li class="nav-item"><a class="nav-link" href="about-si.php">AMA's Sister Institutions</a></li>
         <li class="nav-item"><a class="nav-link" href="about-naac.php">NAAC</a></li>
+        <li class="nav-item"><a class="nav-link" href="about-nirf.php">NIRF</a></li>
       </ul>
     </div>
   <!-- /second-level-nav -->

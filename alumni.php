@@ -205,6 +205,26 @@
         </div>
 
         
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+          <div class="card border-0 transform-on-hover">
+            <a class="lightbox"  href="javascript:void(0)">
+              <img src="images/alumni-kp.jpg" alt="Old Student" class="card-img-top">
+            </a>
+            <div class="card-body">
+              <h6>Kinjarapu Prabhakar</h6>
+              <p class="card-text">Asst. Commissioner of Police, Traffic, Visakhapatnam City</p>
+              <p><a href="images/kinjarapu-prabhakar-profile.pdf" target="_blank">kinjarapu-prabhakar-profile.pdf</a></p>
+              
+            </div>
+          </div>
+        </div>
+
+
+
+
+
+
+
 
       </div>
     </div>

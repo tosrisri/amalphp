@@ -3,7 +3,10 @@
       <h2 class="font-alt text-center my-4">Management's Message</h2>
 	  
 	   <div class="row no-gutters">
-      <div class="card box mb-5">
+
+
+
+            <div class="card box mb-5">
         <div class="row">
           <div class="col-md-3"> <img src="images/pedababu.jpg" class="card-img" alt="President of AMA"> </div>
           <div class="col-md-9">
@@ -17,15 +20,59 @@
           </div>
         </div>
       </div>
+
+
+
+
 	  
       <div class="row">
-	  
+
+        <div class="col-md-4 col-sm-6 col-xs-12">
+          <div class="card box">
+            <img src="images/president-new.jpg" class="card-img-top" alt="President of AMAL College">
+            <div class="card-body">
+              <p class="card-text">The world of work with excellence is a belief where strong team of mentors work. We at A.M.A.L. College, Anakapalle recognise that a good work has three components Excellence, Ethics & Engagement.
+                Excellence stands for outstanding performance in 
+                
+                <span class="collapse" id="collapseSM"> every sphere. Manoeuvring a student’s efforts in the direction of excellence is indispensable, a core desire where and area of need is recognized and potentialities are exploited.
+                Grooming young minds to accept challenges, deal with disappointments and aim higher with proper does of moral ethics is next target in our mind.
+                The most essential ingredient for a student's success is self reinforcing positive belief in his/her abilities. For this the third component engagement works; where students are made to involve themselves in task and enjoy.
+                A matriculations planning integrated with new methodologies and strategies is developed rather evolved every year for achieving our sole aim to create a world of work with excellence and going</span> <a class="text-link"
+                  data-toggle="collapse" href="#collapseSM" role="button" aria-expanded="false"
+                  aria-controls="collapseSM">...more</a>
+                
+                
+                
+                
+                </p>
+              <h5 class="card-title">President, AMAL College<div class="pname"> &dash; K.S.N.MANGA RAJU,</div></h5>
+            </div>
+
+          </div>
+        </div>
+        <!-- <div class="col-md-4 col-sm-6 col-xs-12">
+          <div class="card box">
+            <img src="images/superintendent.jpg" class="card-img-top" alt="Superintendent of AMAL College">
+            <div class="card-body">
+              <p class="card-text">Happy to serve this College as a Superintendent, since 2003. I advise the students to
+                open access with website. Our college management provides facilities like Library, Hostel, JKC, Skill
+                development, campus selections,
+                <span class="collapse" id="collapsePM"> and Bio-metric attendance, play ground, Games and Sports, NSS,
+                  NCC, Transport facilities etc. I hope our students really enjoy these hours. The above said things
+                  benefit the students in shaping their personality and attitude. </span> <a class="text-link"
+                  data-toggle="collapse" href="#collapsePM" role="button" aria-expanded="false"
+                  aria-controls="collapsePM">...more</a></p>
+              <h5 class="card-title">Superintendent<div class="pname"> &dash; P.Anuradha. M.Com.</div></h5>
+            </div>
+
+          </div>
+        </div> -->
 
         <div class="col-md-4 col-sm-6 col-xs-12">
           <div class="card box">
           <img src="images/correspondant.jpg" class="card-img-top" alt="Correspondant of AMAL College">
             <div class="card-body">
-              <p class="card-text">I'm very much delighted to serve this intuition as Correspondent. I believe that we
+              <p class="card-text">I'm very much delighted to serve this institution as Correspondent. I believe that we
                 are on par with the present emerging trends. The motto of our institution is to rise above one’s self to
                 serve the country at large in imparting quality based education.
                 <span class="collapse" id="collapseCM">The objective is to expose the students to Practical oriented
@@ -56,23 +103,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4 col-sm-6 col-xs-12">
-          <div class="card box">
-            <img src="images/superintendent.jpg" class="card-img-top" alt="Superintendent of AMAL College">
-            <div class="card-body">
-              <p class="card-text">Happy to serve this College as a Superintendent, since 2003. I advise the students to
-                open access with website. Our college management provides facilities like Library, Hostel, JKC, Skill
-                development, campus selections,
-                <span class="collapse" id="collapsePM"> and Bio-metric attendance, play ground, Games and Sports, NSS,
-                  NCC, Transport facilities etc. I hope our students really enjoy these hours. The above said things
-                  benefit the students in shaping their personality and attitude. </span> <a class="text-link"
-                  data-toggle="collapse" href="#collapsePM" role="button" aria-expanded="false"
-                  aria-controls="collapsePM">...more</a></p>
-              <h5 class="card-title">Superintendent<div class="pname"> &dash; P.Anuradha. M.Com.</div></h5>
-            </div>
 
-          </div>
-        </div>
 
       </div>
     </div>

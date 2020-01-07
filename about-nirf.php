@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>AMAL College - About</title>
+  <title>AMAL College - NIRF</title>
   <?php include_once('header-styles.php'); ?>
 <?php include_once('analyticstracking.php'); ?>
 </head>
@@ -37,14 +37,14 @@
   <div class="ptitle">
     <div class="container">
       <div class="row">
-        <h1>National Assessment and Accreditation Council</h1>
+        <h1>National Institutional Ranking Framework</h1>
       </div>
       <!-- Breadcrumbs -->
       <div class="row">
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-          <li class="breadcrumb-item" aria-current="page">About</li>
-          <li class="breadcrumb-item active" aria-current="page">NAAC</li>
+          <li class="breadcrumb-item"><a href="about.php">About</a></li>          
+          <li class="breadcrumb-item active" aria-current="page">NIRF</li>
         </ol>
       </div>
       <!-- /Breadcrumbs -->
@@ -57,8 +57,9 @@
       <ul class="nav nav-pills" id="secNavPills">
         <li class="nav-item"><a class="nav-link" href="about.php">History</a></li>
         <li class="nav-item"><a class="nav-link" href="about-si.php">AMA's Sister Institutions</a></li>
-        <li class="nav-item"><a class="nav-link active" href="about-naac.php">NAAC</a></li>
-        <li class="nav-item"><a class="nav-link " href="about-nirf.php">NIRF</a></li>
+        <li class="nav-item"><a class="nav-link" href="about-naac.php">NAAC</a></li>
+        <li class="nav-item"><a class="nav-link active" href="about-nirf.php">NIRF</a></li>
+
       </ul>
     </div>
   <!-- /second-level-nav -->
@@ -66,54 +67,16 @@
   <!-- naac -->
   <section>
     <div class="container">
-      <div class="w-100">
-        <h2 class="subheading w-100">Certificate of Accreditation by NAAC - B++</h2>        
-      </div>
-      <div class="row">
-        <div class="col-md-8 col-sm-8 col-xs-12">
-         <embed src="images/NACC.pdf" width="100%" height="700">
+        <div class="w-100">
+          <h2 class="subheading w-100">NIRF by Central Government of India, 2020</h2> 
+          <embed src="images/nirf.pdf" width="100%" height="700"  style="overflow-x: hidden;">       
         </div>
-        <div class="col-md-4 col-sm-4 col-xs-12">
-            
-            <p>Though <strong>College secured NAAC Accredited B++ Grade</strong>, as a team we are striving for A+. All our efforts for the past 1 years was aimed towards acheving a better goal and a better life to students and society.</p>            
-          <h6>What is NAAC?</h6>
-          <p>The National Assessment and Accreditation Council (NAAC) is an organisation that assesses and accredits higher education Institutions (HEIs) in India. It is an autonomous body funded by University Grants Commission of Government of India headquartered in Bangalore.</p>
-          
-          <h6>NAAC grading tabel</h6>
-          <p><img src="images/naac-grading.jpg" class="img-fluid" alt="NAAC Grading Table"></p>
-        </div>
-      </div>
     </div>
   </section>
   <!-- /naac -->
 
 
-<!-- NACC Visit Starts -->
-<div class="container">
-<h2 class="mb-5 text-center">NACC Visit</h2>
-        <hr>
-        <div class="row">
 
-        <div class="col-xs-12 col-sm-6 col-md-4 item">
-            <a class="lightbox" href="images/nacc-visit1.jpg">
-                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit1.jpg">
-            </a>
-        </div>
-
-        <div class="col-xs-12 col-sm-6 col-md-4 item">
-            <a class="lightbox" href="images/nacc-visit2.jpg">
-                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit2.jpg">
-            </a>
-        </div>
-
-        <div class="col-xs-12 col-sm-6 col-md-4 item">
-            <a class="lightbox" href="images/nacc-visit3.jpg">
-                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit3.jpg">
-            </a>
-        </div>
-    </div>
-</div>
-<!-- NACC Visit Ends -->
 
 
 <!-- Footer Starts -->
