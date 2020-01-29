@@ -19,6 +19,7 @@
         <ul class="navbar-nav ml-auto" id="priNavBar">
           <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
           <li class="nav-item active"><a class="nav-link" href="about.php">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="about-naac.php">NAAC</a></li>
           <li class="nav-item"><a class="nav-link" href="courses.php">Courses</a></li>
           <li class="nav-item"><a class="nav-link" href="facilities.php">Facilities</a></li>
           <li class="nav-item"><a class="nav-link" href="staff.php">Staff</a></li>
@@ -58,7 +59,7 @@
     <ul class="nav nav-pills" id="secNavPills">
       <li class="nav-item"><a class="nav-link" href="about.php">History</a></li>
       <li class="nav-item"><a class="nav-link active" href="about-si.php">AMA's Sister Institutions</a></li>
-      <li class="nav-item"><a class="nav-link" href="about-naac.php">NAAC</a></li>
+      <!-- <li class="nav-item"><a class="nav-link" href="about-naac.php">NAAC</a></li> -->
       <li class="nav-item"><a class="nav-link" href="about-nirf.php">NIRF</a></li>
     </ul>
   </div>

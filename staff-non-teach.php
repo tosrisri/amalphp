@@ -20,6 +20,7 @@
       <ul class="navbar-nav ml-auto" id="priNavBar">
         <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="about-naac.php">NAAC</a></li>
         <li class="nav-item"><a class="nav-link" href="courses.php">Courses</a></li>
         <li class="nav-item"><a class="nav-link" href="facilities.php">Facilities</a></li>
         <li class="nav-item active"><a class="nav-link" href="staff.php">Staff</a></li>
@@ -255,7 +256,7 @@
             <address> Computer Operator <br />
               Years of Experience:08<br />
               <a href="tel:+91- 8121910326 ">+91- 8121910326 </a><br />
-              <a href="mailto: amalcollegeakp1953@gmail.com "> amalcollegeakp1953@gmail.com </a>
+              <a href="mailto: amalcollegeakp1953@gmail.com ">konathalagirish@gmail.com </a>
             </address>
           </div>
         </div>

@@ -17,6 +17,7 @@
       <ul class="navbar-nav ml-auto" id="priNavBar">
         <li class="nav-item active"><a class="nav-link" href="index.php">Home</a></li>
         <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+        <li class="nav-item"><a class="nav-link" href="about-naac.php">NAAC</a></li>
         <li class="nav-item"><a class="nav-link" href="courses.php">Courses</a></li>
         <li class="nav-item"><a class="nav-link" href="facilities.php">Facilities</a></li>
         <li class="nav-item"><a class="nav-link" href="staff.php">Staff</a></li>
@@ -24,6 +25,7 @@
         <li class="nav-item"><a class="nav-link" href="gallery.php">Gallery</a></li>
         <li class="nav-item"><a class="nav-link" href="alumni.php">Alumni</a></li>
         <li class="nav-item"><a class="nav-link" href="contact.php">Contact</a></li>
+
       </ul>
     </div>
   </div>

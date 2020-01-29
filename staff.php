@@ -20,6 +20,7 @@
         <ul class="navbar-nav ml-auto" id="priNavBar">
           <li class="nav-item"><a class="nav-link" href="index.php">Home</a></li>
           <li class="nav-item"><a class="nav-link" href="about.php">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="about-naac.php">NAAC</a></li>
           <li class="nav-item"><a class="nav-link" href="courses.php">Courses</a></li>
           <li class="nav-item"><a class="nav-link" href="facilities.php">Facilities</a></li>
           <li class="nav-item active"><a class="nav-link" href="staff.php">Staff</a></li>
@@ -724,7 +725,7 @@
             <div class="card-body">
               <h6>S.V.Krishna,<small class="small-font"> MBA, M.Com </small></h6>
               <address> <span>Assistant Professor</span> <br />
-                Experience:  5 Years<br />
+                Experience:  7 Years<br />
                 <a href="tel:+91- 9966607343 "><img src="images/mobile.svg" width="16" alt="Contact" /> </span>  9966607343 </a><br />
                 <a href="mailto: svkrishna@yahoo.com ">svkrishna@yahoo.com </a>
               </address>
@@ -740,7 +741,7 @@
             <div class="card-body">
               <h6>R.Dhanaji, <small class="small-font">M.Com </small></h6>
               <address> <span>Assistant Professor</span> <br />
-                Experience:  06 Years<br />
+                Experience:  4 Years<br />
                 <a href="tel:+91- 7095198335 "><img src="images/mobile.svg" width="16" alt="Contact" /> </span>  7095198335 </a><br />
                 <a href="mailto: amalcollegeakp1953@gmail.com "> amalcollegeakp1953@gmail.com </a>
               </address>
@@ -1003,7 +1004,7 @@
               <img src="images/teach-nagalakshmi.jpg" alt="Card Image" class="card-img-top img-thumbnail1">
             </a>
             <div class="card-body">
-              <h6>D.Nagalakshmi, <small class="small-font">M.Sc, B.Ed </small></h6>
+              <h6>D.Nagalakshmi, <small class="small-font">M.Sc, B.Ed,SET qualified </small></h6>
               <address> <span>Lecturer</span> <br />
                  Experience: 02<br />
                  <a href="tel: +91- 9705015024"><img src="images/mobile.svg" width="16" alt="Contact" /> </span>  9705015024</a><br />

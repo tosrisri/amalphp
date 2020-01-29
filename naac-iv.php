@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <title>AMAL College - About</title>
+  <title>AMAL College - NAAC - Institutional Values and Best Practices</title>
   <?php include_once('header-styles.php'); ?>
 <?php include_once('analyticstracking.php'); ?>
 </head>
@@ -45,7 +45,8 @@
         <ol class="breadcrumb">
           <li class="breadcrumb-item"><a href="index.php">Home</a></li>
           <!-- <li class="breadcrumb-item" aria-current="page">About</li> -->
-          <li class="breadcrumb-item active" aria-current="page">NAAC</li>
+          <li class="breadcrumb-item" aria-current="page"><a href="about-naac.php">NAAC</a></li>
+          <li class="breadcrumb-item active" aria-current="page">Institutional Values and Best Practices</li>
         </ol>
       </div>
       <!-- /Breadcrumbs -->
@@ -56,7 +57,7 @@
   <!-- second-level-nav -->
     <div class="container mt-5">
       <ul class="nav nav-pills" id="secNavPills">
-        <li class="nav-item"><a class="nav-link active" href="about.php">Overview</a></li>
+        <li class="nav-item"><a class="nav-link" href="about-naac.php">Overview</a></li>
 
         <li class="nav-item"><a class="nav-link" href="nacc-ca.php">Curricular Aspects</a></li>
         <li class="nav-item"><a class="nav-link" href="naac-teaching.php">Teaching</a></li>
@@ -64,7 +65,7 @@
         <li class="nav-item"><a class="nav-link" href="nacc-infra.php">Infrastructure</a></li>
         <li class="nav-item"><a class="nav-link" href="naac-ss.php">Student Support</a></li>
         <li class="nav-item"><a class="nav-link" href="naac-gov.php">Governance</a></li>
-        <li class="nav-item"><a class="nav-link" href="naac-iv.php">Institutional Values</a></li>
+        <li class="nav-item"><a class="nav-link active" href="naac-iv.php">Institutional Values</a></li>
 
 
 
@@ -76,20 +77,13 @@
   <section>
     <div class="container">
       <div class="w-100">
-        <h2 class="subheading w-100">Certificate of Accreditation by NAAC - B++</h2>        
+        <h2 class="subheading w-100">Institutional Values and Best Practices</h2>        
       </div>
       <div class="row">
-        <div class="col-md-8 col-sm-8 col-xs-12">
-         <embed src="images/NACC.pdf" width="100%" height="700">
-        </div>
-        <div class="col-md-4 col-sm-4 col-xs-12">
-            
-            <p>Though <strong>College secured NAAC Accredited B++ Grade</strong>, as a team we are striving for A+. All our efforts for the past 1 years was aimed towards acheving a better goal and a better life to students and society.</p>            
-          <h6>What is NAAC?</h6>
-          <p>The National Assessment and Accreditation Council (NAAC) is an organisation that assesses and accredits higher education Institutions (HEIs) in India. It is an autonomous body funded by University Grants Commission of Government of India headquartered in Bangalore.</p>
-          
-          <h6>NAAC grading tabel</h6>
-          <p><img src="images/naac-grading.jpg" class="img-fluid" alt="NAAC Grading Table"></p>
+          <div class="col">
+          <p>Content Coming Soon...</p>
+          </div>
+         
         </div>
       </div>
     </div>
@@ -99,28 +93,8 @@
 
 <!-- NACC Visit Starts -->
 <div class="container">
-<h2 class="mb-5 text-center">NACC Visit</h2>
-        <hr>
-        <div class="row">
 
-        <div class="col-xs-12 col-sm-6 col-md-4 item">
-            <a class="lightbox" href="images/nacc-visit1.jpg">
-                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit1.jpg">
-            </a>
-        </div>
-
-        <div class="col-xs-12 col-sm-6 col-md-4 item">
-            <a class="lightbox" href="images/nacc-visit2.jpg">
-                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit2.jpg">
-            </a>
-        </div>
-
-        <div class="col-xs-12 col-sm-6 col-md-4 item">
-            <a class="lightbox" href="images/nacc-visit3.jpg">
-                <img class="img-fluid image scale-on-hover img-thumbnail" src="images/nacc-visit3.jpg">
-            </a>
-        </div>
-    </div>
+     
 </div>
 <!-- NACC Visit Ends -->
 
