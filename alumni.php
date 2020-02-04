@@ -222,6 +222,20 @@
 
 
 
+        <div class="col-lg-3 col-md-3 col-sm-4 col-xs-12">
+          <div class="card border-0 transform-on-hover">
+            <a class="lightbox"  href="javascript:void(0)">
+              <img src="images/alumni-apparao.jpg" alt="Old Student" class="card-img-top">
+            </a>
+            <div class="card-body">
+              <h6>Apparao</h6>
+              <p class="card-text">Deputy Director & State Programme Manager, National Health Mission, Government of AP</p>
+              <p>Intermediate MPC and Bsc electronics, 1987 - 1992 Batch. <br/>Group-1, 1995 batch</p>
+              
+              
+            </div>
+          </div>
+        </div>
 
 
 
